@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.row {
+    width: 100%;
+    flex-wrap: wrap;
+    display: flex;    
+
+}
