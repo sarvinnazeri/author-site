@@ -1,6 +1,8 @@
 # author-site
-<img width="1440" alt="Screen Shot 2024-05-12 at 2 40 49 PM" src="https://github.com/sarvinnazeri/extreme-sport-site/assets/166671712/4beb4a1f-7e65-4ced-b43d-3c3be422ee2b">
-<img width="1440" alt="Screen Shot 2024-05-12 at 2 40 58 PM" src="https://github.com/sarvinnazeri/extreme-sport-site/assets/166671712/8e35a464-df58-40be-ba53-da0e46ecf71f">
+<img width="1437" alt="Screen Shot 2024-05-23 at 10 31 06 PM" src="https://github.com/sarvinnazeri/author-site/assets/166671712/8e8a3982-c7b1-4066-882b-e02b7c501fa3">
+
+<img width="1437" alt="Screen Shot 2024-05-23 at 10 31 42 PM" src="https://github.com/sarvinnazeri/author-site/assets/166671712/f908a6d2-baf9-4928-8f6c-dcb7b98f5f2d">
+
 - [Demo Project][(https://sarvinnazeri.github.io/author-site/)]
 
 - Developed by sarvin nazeri
